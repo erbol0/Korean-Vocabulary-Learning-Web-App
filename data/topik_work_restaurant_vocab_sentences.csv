@@ -1,0 +1,581 @@
+﻿type,stt,category,ko,en
+VOCAB,1,Area & Personnel,주방,Kitchen
+VOCAB,2,Area & Personnel,홀,Dining Hall / Dining Area
+VOCAB,3,Area & Personnel,카운터,Counter / Cashier Counter
+VOCAB,4,Area & Personnel,세척실,Dishwashing Room
+VOCAB,5,Area & Personnel,준비대,Prep Table
+VOCAB,6,Area & Personnel,조리대,Cooking Counter / Kitchen Counter
+VOCAB,7,Area & Personnel,배식대,Food Serving Counter
+VOCAB,8,Area & Personnel,창고,Storage Room
+VOCAB,9,Area & Personnel,냉장실,Cold Storage / Chilling Room
+VOCAB,10,Area & Personnel,냉동실,Freezer Room / Freezer
+VOCAB,11,Area & Personnel,출입구,Entrance / Exit
+VOCAB,12,Area & Personnel,테이블,Table
+VOCAB,13,Area & Personnel,화장실,Restroom
+VOCAB,14,Area & Personnel,휴게실,Break Room
+VOCAB,15,Area & Personnel,사장님,Owner / Boss
+VOCAB,16,Area & Personnel,매니저,Manager
+VOCAB,17,Area & Personnel,주방장,Head Chef
+VOCAB,18,Area & Personnel,조리사,Cook / Chef
+VOCAB,19,Area & Personnel,주방 보조,Kitchen Assistant
+VOCAB,20,Area & Personnel,홀서빙,Server / Waitstaff
+VOCAB,21,Area & Personnel,알바,Part-timer
+VOCAB,22,Utensils & Equipment,식기,Tableware / Eating Utensils
+VOCAB,23,Utensils & Equipment,그릇,Bowl
+VOCAB,24,Utensils & Equipment,접시,Plate / Dish
+VOCAB,25,Utensils & Equipment,밥그릇,Rice Bowl
+VOCAB,26,Utensils & Equipment,국그릇,Soup Bowl
+VOCAB,27,Utensils & Equipment,수저,Spoon and Chopsticks Set
+VOCAB,28,Utensils & Equipment,숟가락,Spoon
+VOCAB,29,Utensils & Equipment,젓가락,Chopsticks
+VOCAB,30,Utensils & Equipment,포크,Fork
+VOCAB,31,Utensils & Equipment,나이프,Knife
+VOCAB,32,Utensils & Equipment,컵,Cup
+VOCAB,33,Utensils & Equipment,쟁반,Tray
+VOCAB,34,Utensils & Equipment,트레이,Serving Tray
+VOCAB,35,Utensils & Equipment,뚜껑,Lid / Cap
+VOCAB,36,Utensils & Equipment,냄비,Pot
+VOCAB,37,Utensils & Equipment,프라이팬,Frying Pan
+VOCAB,38,Utensils & Equipment,웍,Wok
+VOCAB,39,Utensils & Equipment,국자,Ladle
+VOCAB,40,Utensils & Equipment,뒤집개,Spatula / Turner
+VOCAB,41,Utensils & Equipment,집게,Tongs
+VOCAB,42,Utensils & Equipment,도마,Cutting Board
+VOCAB,43,Utensils & Equipment,칼,Kitchen Knife
+VOCAB,44,Utensils & Equipment,가위,Scissors
+VOCAB,45,Utensils & Equipment,계량컵,Measuring Cup
+VOCAB,46,Utensils & Equipment,저울,Scale
+VOCAB,47,Utensils & Equipment,온도계,Thermometer
+VOCAB,48,Utensils & Equipment,보관용기,Storage Container
+VOCAB,49,Utensils & Equipment,지퍼백,Ziploc Bag
+VOCAB,50,Utensils & Equipment,랩,Plastic Wrap
+VOCAB,51,Utensils & Equipment,호일,Aluminum Foil
+VOCAB,52,Utensils & Equipment,냅킨,Napkin
+VOCAB,53,Utensils & Equipment,물티슈,Wet Wipes
+VOCAB,54,Utensils & Equipment,행주,Dishcloth / Rag
+VOCAB,55,Utensils & Equipment,수세미,Scrubbing Sponge
+VOCAB,56,Utensils & Equipment,세제,Detergent / Dish Soap
+VOCAB,57,Utensils & Equipment,표백제,Bleach
+VOCAB,58,Utensils & Equipment,소독제,Disinfectant / Sanitizer
+VOCAB,59,Utensils & Equipment,고무장갑,Rubber Gloves
+VOCAB,60,Utensils & Equipment,비닐장갑,Disposable Plastic Gloves
+VOCAB,61,Utensils & Equipment,앞치마,Apron
+VOCAB,62,Utensils & Equipment,위생모,Hygiene Cap
+VOCAB,63,Utensils & Equipment,머리망,Hairnet
+VOCAB,64,Utensils & Equipment,쓰레기통,Trash Can
+VOCAB,65,Utensils & Equipment,음식물쓰레기통,Food Waste Bin
+VOCAB,66,Utensils & Equipment,분리수거함,Recycling Bin
+VOCAB,67,Utensils & Equipment,걸레,Floor Rag
+VOCAB,68,Utensils & Equipment,대걸레,Mop
+VOCAB,69,Utensils & Equipment,빗자루,Broom
+VOCAB,70,Utensils & Equipment,쓰레받기,Dustpan
+VOCAB,71,Utensils & Equipment,식기세척기,Dishwasher
+VOCAB,72,Utensils & Equipment,건조대,Drying Rack
+VOCAB,73,Utensils & Equipment,후드,Range Hood
+VOCAB,74,Utensils & Equipment,가스레인지,Gas Stove
+VOCAB,75,Utensils & Equipment,인덕션,Induction Cooktop
+VOCAB,76,Utensils & Equipment,오븐,Oven
+VOCAB,77,Utensils & Equipment,전자레인지,Microwave
+VOCAB,78,Utensils & Equipment,냉장고,Refrigerator
+VOCAB,79,Utensils & Equipment,냉동고,Freezer
+VOCAB,80,Utensils & Equipment,밥솥,Rice Cooker
+VOCAB,81,Utensils & Equipment,정수기,Water Purifier
+VOCAB,82,Utensils & Equipment,커피머신,Coffee Machine
+VOCAB,83,Utensils & Equipment,제빙기,Ice Maker
+VOCAB,84,Utensils & Equipment,포스기,POS Machine
+VOCAB,85,Utensils & Equipment,영수증 프린터,Receipt Printer
+VOCAB,86,Ingredients,쌀,Rice (uncooked)
+VOCAB,87,Ingredients,밥,Cooked Rice / Meal
+VOCAB,88,Ingredients,면,Noodles
+VOCAB,89,Ingredients,고기,Meat
+VOCAB,90,Ingredients,소고기,Beef
+VOCAB,91,Ingredients,돼지고기,Pork
+VOCAB,92,Ingredients,닭고기,Chicken
+VOCAB,93,Ingredients,생선,Fish
+VOCAB,94,Ingredients,새우,Shrimp
+VOCAB,95,Ingredients,오징어,Squid
+VOCAB,96,Ingredients,달걀,Egg
+VOCAB,97,Ingredients,두부,Tofu
+VOCAB,98,Ingredients,김치,Kimchi
+VOCAB,99,Ingredients,양배추,Cabbage
+VOCAB,100,Ingredients,양파,Onion
+VOCAB,101,Ingredients,대파,Green Onion / Scallion
+VOCAB,102,Ingredients,마늘,Garlic
+VOCAB,103,Ingredients,생강,Ginger
+VOCAB,104,Ingredients,감자,Potato
+VOCAB,105,Ingredients,당근,Carrot
+VOCAB,106,Ingredients,오이,Cucumber
+VOCAB,107,Ingredients,버섯,Mushroom
+VOCAB,108,Ingredients,상추,Lettuce
+VOCAB,109,Ingredients,고추,Chili Pepper
+VOCAB,110,Ingredients,고춧가루,Chili Powder
+VOCAB,111,Ingredients,소금,Salt
+VOCAB,112,Ingredients,후추,Black Pepper
+VOCAB,113,Ingredients,설탕,Sugar
+VOCAB,114,Ingredients,간장,Soy Sauce
+VOCAB,115,Ingredients,식초,Vinegar
+VOCAB,116,Ingredients,고추장,Red Chili Paste
+VOCAB,117,Ingredients,된장,Soybean Paste
+VOCAB,118,Ingredients,참기름,Sesame Oil
+VOCAB,119,Ingredients,식용유,Cooking Oil
+VOCAB,120,Ingredients,물,Water
+VOCAB,121,Ingredients,얼음,Ice
+VOCAB,122,Ingredients,육수,Broth / Stock
+VOCAB,123,Ingredients,반찬,Side Dish
+VOCAB,124,Ingredients,소스,Sauce
+VOCAB,125,Ingredients,양념,Seasoning
+VOCAB,126,Ingredients,밀가루,Flour
+VOCAB,127,Ingredients,전분,Starch
+VOCAB,128,Ingredients,빵가루,Breadcrumbs
+VOCAB,129,Actions,씻다,To wash
+VOCAB,130,Actions,헹구다,To rinse
+VOCAB,131,Actions,담그다,To soak
+VOCAB,132,Actions,닦다,To wipe / scrub
+VOCAB,133,Actions,정리하다,To organize / tidy up
+VOCAB,134,Actions,치우다,To clear away / clean up
+VOCAB,135,Actions,썰다,To slice / chop
+VOCAB,136,Actions,채 썰다,To julienne / shred
+VOCAB,137,Actions,다지다,To mince
+VOCAB,138,Actions,양념하다,To season / marinate
+VOCAB,139,Actions,간을 맞추다,To season to taste
+VOCAB,140,Actions,맛보다,To taste
+VOCAB,141,Actions,끓이다,To boil
+VOCAB,142,Actions,삶다,To boil (food)
+VOCAB,143,Actions,찌다,To steam
+VOCAB,144,Actions,볶다,To stir-fry
+VOCAB,145,Actions,튀기다,To deep-fry
+VOCAB,146,Actions,굽다,To grill / roast / bake
+VOCAB,147,Actions,데치다,To blanch
+VOCAB,148,Actions,데우다,To heat up / reheat
+VOCAB,149,Actions,식히다,To cool down
+VOCAB,150,Actions,해동하다,To defrost / thaw
+VOCAB,151,Actions,포장하다,To pack / wrap
+VOCAB,152,Actions,준비하다,To prepare
+VOCAB,153,Actions,서빙하다,To serve
+VOCAB,154,Actions,주문받다,To take an order
+VOCAB,155,Actions,계산하다,To calculate / pay
+VOCAB,156,Actions,확인하다,To check / verify
+VOCAB,157,Actions,보충하다,To replenish / refill
+VOCAB,158,Actions,교체하다,To replace / change
+VOCAB,159,Service & Cashier,메뉴,Menu
+VOCAB,160,Service & Cashier,메뉴판,Menu Board / Menu
+VOCAB,161,Service & Cashier,추천 메뉴,Recommended Menu
+VOCAB,162,Service & Cashier,주문,Order
+VOCAB,163,Service & Cashier,추가 주문,Additional Order
+VOCAB,164,Service & Cashier,예약,Reservation
+VOCAB,165,Service & Cashier,대기,Waiting
+VOCAB,166,Service & Cashier,테이블 번호,Table Number
+VOCAB,167,Service & Cashier,테이블 세팅,Table Setting
+VOCAB,168,Service & Cashier,리필,Refill
+VOCAB,169,Service & Cashier,포장,Takeout / Packagingtype,stt,category,ko,en
+VOCAB,170,Service & Cashier,테이크아웃,Takeout
+VOCAB,171,Service & Cashier,배달,Delivery
+VOCAB,172,Service & Cashier,계산,Payment / Calculation
+VOCAB,173,Service & Cashier,현금,Cash
+VOCAB,174,Service & Cashier,카드,Card
+VOCAB,175,Service & Cashier,카드 결제,Card payment
+VOCAB,176,Service & Cashier,영수증,Receipt
+VOCAB,177,Service & Cashier,할인,Discount
+VOCAB,178,Service & Cashier,쿠폰,Coupon
+VOCAB,179,Service & Cashier,알레르기,Allergy
+VOCAB,180,Service & Cashier,맵기,Spiciness level
+VOCAB,181,Service & Cashier,덜 맵게,Less spicy
+VOCAB,182,Service & Cashier,더 맵게,More spicy
+VOCAB,183,Service & Cashier,소스 추가,Extra sauce
+VOCAB,184,Service & Cashier,반찬 리필,Side dish refill
+VOCAB,185,Safety & Shifts,위생,Hygiene / Sanitation
+VOCAB,186,Safety & Shifts,손 씻기,Hand washing
+VOCAB,187,Safety & Shifts,손소독,Hand sanitizing
+VOCAB,188,Safety & Shifts,미끄럼 주의,Caution: Slippery floor
+VOCAB,189,Safety & Shifts,화상,Burn
+VOCAB,190,Safety & Shifts,응급처치,First aid
+VOCAB,191,Safety & Shifts,소화기,Fire extinguisher
+VOCAB,192,Safety & Shifts,유통기한,Expiration date
+VOCAB,193,Safety & Shifts,출근,Clocking in / Going to work
+VOCAB,194,Safety & Shifts,퇴근,Clocking out / Leaving work
+VOCAB,195,Safety & Shifts,교대,Shift change
+VOCAB,196,Safety & Shifts,야간,Night shift
+VOCAB,197,Safety & Shifts,휴게시간,Break time
+VOCAB,198,Safety & Shifts,지각,Tardiness / Being late
+VOCAB,199,Safety & Shifts,연장근무,Overtime work
+VOCAB,200,Safety & Shifts,시급,Hourly wage
+VOCAB,201,Practical Phrases,접시를 닦다,Wipe a plate
+VOCAB,202,Practical Phrases,접시를 씻다,Wash a plate
+VOCAB,203,Practical Phrases,접시를 헹구다,Rinse a plate
+VOCAB,204,Practical Phrases,접시를 정리하다,Organize plates
+VOCAB,205,Practical Phrases,접시를 치우다,Clear plates away
+VOCAB,206,Practical Phrases,접시를 버리다,Throw away a plate
+VOCAB,207,Practical Phrases,접시를 담다,Plate / Serve on a plate
+VOCAB,208,Practical Phrases,접시를 채우다,Fill a plate
+VOCAB,209,Practical Phrases,접시를 비우다,Empty a plate
+VOCAB,210,Practical Phrases,접시를 꺼내다,Take out a plate
+VOCAB,211,Practical Phrases,접시를 넣다,Put in a plate
+VOCAB,212,Practical Phrases,접시를 옮기다,Move a plate
+VOCAB,213,Practical Phrases,접시를 확인하다,Check a plate
+VOCAB,214,Practical Phrases,접시를 교체하다,Replace a plate
+VOCAB,215,Practical Phrases,접시를 보충하다,Replenish plates
+VOCAB,216,Practical Phrases,접시를 세척하다,Wash plates clean
+VOCAB,217,Practical Phrases,접시를 소독하다,Sanitize a plate
+VOCAB,218,Practical Phrases,접시를 건조하다,Dry a plate
+VOCAB,219,Practical Phrases,접시를 점검하다,Inspect a plate
+VOCAB,220,Practical Phrases,그릇을 닦다,Wipe a bowl
+VOCAB,221,Practical Phrases,그릇을 씻다,Wash a bowl
+VOCAB,222,Practical Phrases,그릇을 헹구다,Rinse a bowl
+VOCAB,223,Practical Phrases,그릇을 정리하다,Organize bowls
+VOCAB,224,Practical Phrases,그릇을 치우다,Clear bowls away
+VOCAB,225,Practical Phrases,그릇을 버리다,Throw away a bowl
+VOCAB,226,Practical Phrases,그릇을 담다,Ladle / Serve into a bowl
+VOCAB,227,Practical Phrases,그릇을 채우다,Fill a bowl
+VOCAB,228,Practical Phrases,그릇을 비우다,Empty a bowl
+VOCAB,229,Practical Phrases,그릇을 꺼내다,Take out a bowl
+VOCAB,230,Practical Phrases,그릇을 넣다,Put in a bowl
+VOCAB,231,Practical Phrases,그릇을 옮기다,Move a bowl
+VOCAB,232,Practical Phrases,그릇을 확인하다,Check a bowl
+VOCAB,233,Practical Phrases,그릇을 교체하다,Replace a bowl
+VOCAB,234,Practical Phrases,그릇을 보충하다,Replenish bowls
+VOCAB,235,Practical Phrases,그릇을 세척하다,Wash bowls clean
+VOCAB,236,Practical Phrases,그릇을 소독하다,Sanitize a bowl
+VOCAB,237,Practical Phrases,그릇을 건조하다,Dry a bowl
+VOCAB,238,Practical Phrases,그릇을 점검하다,Inspect a bowl
+VOCAB,239,Practical Phrases,컵을 닦다,Wipe a cup
+VOCAB,240,Practical Phrases,컵을 씻다,Wash a cup
+VOCAB,241,Practical Phrases,컵을 헹구다,Rinse a cup
+VOCAB,242,Practical Phrases,컵을 정리하다,Organize cups
+VOCAB,243,Practical Phrases,컵을 치우다,Clear cups away
+VOCAB,244,Practical Phrases,컵을 버리다,Throw away a cup
+VOCAB,245,Practical Phrases,컵을 담다,Pour / Fill a cup
+VOCAB,246,Practical Phrases,컵을 채우다,Fill up a cup
+VOCAB,247,Practical Phrases,컵을 비우다,Empty a cup
+VOCAB,248,Practical Phrases,컵을 꺼내다,Take out a cup
+VOCAB,249,Practical Phrases,컵을 넣다,Put in a cup
+VOCAB,250,Practical Phrases,컵을 옮기다,Move a cup
+VOCAB,251,Practical Phrases,컵을 확인하다,Check a cup
+VOCAB,252,Practical Phrases,컵을 교체하다,Replace a cup
+VOCAB,253,Practical Phrases,컵을 보충하다,Replenish cups
+VOCAB,254,Practical Phrases,컵을 세척하다,Wash cups clean
+VOCAB,255,Practical Phrases,컵을 소독하다,Sanitize a cup
+VOCAB,256,Practical Phrases,컵을 건조하다,Dry a cup
+VOCAB,257,Practical Phrases,컵을 점검하다,Inspect a cup
+VOCAB,258,Practical Phrases,수저를 닦다,Wipe utensils (spoon & chopsticks)
+VOCAB,259,Practical Phrases,수저를 씻다,Wash utensils
+VOCAB,260,Practical Phrases,수저를 헹구다,Rinse utensils
+VOCAB,261,Practical Phrases,수저를 정리하다,Organize utensils
+VOCAB,262,Practical Phrases,수저를 치우다,Clear utensils away
+VOCAB,263,Practical Phrases,수저를 버리다,Throw away utensils
+VOCAB,264,Practical Phrases,수저를 담다,Put utensils into a holder/container
+VOCAB,265,Practical Phrases,수저를 채우다,Fill up utensils
+VOCAB,266,Practical Phrases,수저를 비우다,Empty utensil holders
+VOCAB,267,Practical Phrases,수저를 꺼내다,Take out utensils
+VOCAB,268,Practical Phrases,수저를 넣다,Put in utensils
+VOCAB,269,Practical Phrases,수저를 옮기다,Move utensils
+VOCAB,270,Practical Phrases,수저를 확인하다,Check utensils
+VOCAB,271,Practical Phrases,수저를 교체하다,Replace utensils
+VOCAB,272,Practical Phrases,수저를 보충하다,Replenish utensils
+VOCAB,273,Practical Phrases,수저를 세척하다,Wash utensils clean
+VOCAB,274,Practical Phrases,수저를 소독하다,Sanitize utensils
+VOCAB,275,Practical Phrases,수저를 건조하다,Dry utensils
+VOCAB,276,Practical Phrases,수저를 점검하다,Inspect utensils
+VOCAB,277,Practical Phrases,쟁반을 닦다,Wipe a tray
+VOCAB,278,Practical Phrases,쟁반을 씻다,Wash a tray
+VOCAB,279,Practical Phrases,쟁반을 헹구다,Rinse a tray
+VOCAB,280,Practical Phrases,쟁반을 정리하다,Organize trays
+VOCAB,281,Practical Phrases,쟁반을 치우다,Clear trays away
+VOCAB,282,Practical Phrases,쟁반을 버리다,Throw away a tray
+VOCAB,283,Practical Phrases,쟁반을 담다,Place on a tray
+VOCAB,284,Practical Phrases,쟁반을 채우다,Fill up a tray
+VOCAB,285,Practical Phrases,쟁반을 비우다,Empty a tray
+VOCAB,286,Practical Phrases,쟁반을 꺼내다,Take out a tray
+VOCAB,287,Practical Phrases,쟁반을 넣다,Put in a tray
+VOCAB,288,Practical Phrases,쟁반을 옮기다,Move a tray
+VOCAB,289,Practical Phrases,쟁반을 확인하다,Check a tray
+VOCAB,290,Practical Phrases,쟁반을 교체하다,Replace a tray
+VOCAB,291,Practical Phrases,쟁반을 보충하다,Replenish trays
+VOCAB,292,Practical Phrases,쟁반을 세척하다,Wash trays clean
+VOCAB,293,Practical Phrases,쟁반을 소독하다,Sanitize a tray
+VOCAB,294,Practical Phrases,쟁반을 건조하다,Dry a tray
+VOCAB,295,Practical Phrases,쟁반을 점검하다,Inspect a tray
+VOCAB,296,Practical Phrases,테이블을 닦다,Wipe a table
+VOCAB,297,Practical Phrases,테이블을 씻다,Wash a table
+VOCAB,298,Practical Phrases,테이블을 헹구다,Rinse a table
+VOCAB,299,Practical Phrases,테이블을 정리하다,Organize / Set a table
+VOCAB,300,Practical Phrases,테이블을 치우다,Clear a table
+VOCAB,301,Practical Phrases,테이블을 버리다,Dispose of / Discard a table
+VOCAB,302,Practical Phrases,테이블을 담다,Place items on a table
+VOCAB,303,Practical Phrases,테이블을 채우다,Fill up a table
+VOCAB,304,Practical Phrases,테이블을 비우다,Clear / Vacate a table
+VOCAB,305,Practical Phrases,테이블을 꺼내다,Bring out a table
+VOCAB,306,Practical Phrases,테이블을 넣다,Put in / Store a table
+VOCAB,307,Practical Phrases,테이블을 옮기다,Move a table
+VOCAB,308,Practical Phrases,테이블을 확인하다,Check a table
+VOCAB,309,Practical Phrases,테이블을 교체하다,Replace a table
+VOCAB,310,Practical Phrases,테이블을 보충하다,Add extra tables
+VOCAB,311,Practical Phrases,테이블을 세척하다,Wash / Scrub a table
+VOCAB,312,Practical Phrases,테이블을 소독하다,Sanitize a table
+VOCAB,313,Practical Phrases,테이블을 건조하다,Dry a table
+VOCAB,314,Practical Phrases,테이블을 점검하다,Inspect a table
+VOCAB,315,Practical Phrases,의자를 닦다,Wipe a chair
+VOCAB,316,Practical Phrases,의자를 씻다,Wash a chair
+VOCAB,317,Practical Phrases,의자를 헹구다,Rinse a chair
+VOCAB,318,Practical Phrases,의자를 정리하다,Arrange / Organize chairs
+VOCAB,319,Practical Phrases,의자를 치우다,Clear / Remove a chair
+VOCAB,320,Practical Phrases,의자를 버리다,Dispose of / Discard a chair
+VOCAB,321,Practical Phrases,의자를 담다,Place on a chair
+VOCAB,322,Practical Phrases,의자를 채우다,Fill chairs / Occupy chairs
+VOCAB,323,Practical Phrases,의자를 비우다,Vacate a chair
+VOCAB,324,Practical Phrases,의자를 꺼내다,Pull out a chair
+VOCAB,325,Practical Phrases,의자를 넣다,Tuck in / Put away a chair
+VOCAB,326,Practical Phrases,의자를 옮기다,Move a chair
+VOCAB,327,Practical Phrases,의자를 확인하다,Check a chair
+VOCAB,328,Practical Phrases,의자를 교체하다,Replace a chair
+VOCAB,329,Practical Phrases,의자를 보충하다,Add extra chairs
+VOCAB,330,Practical Phrases,의자를 세척하다,Wash / Scrub a chair
+VOCAB,331,Practical Phrases,의자를 소독하다,Sanitize a chair
+VOCAB,332,Practical Phrases,의자를 건조하다,Dry a chair
+VOCAB,333,Practical Phrases,의자를 점검하다,Inspect a chair
+VOCAB,334,Practical Phrases,바닥을 닦다,Mop / Wipe the floor
+VOCAB,335,Practical Phrases,바닥을 씻다,Wash the floor
+VOCAB,336,Practical Phrases,바닥을 헹구다,Rinse the floor
+VOCAB,337,Practical Phrases,바닥을 정리하다,Tidy up the floor
+VOCAB,338,Practical Phrases,바닥을 치우다,Clear the floor
+VOCAB,339,Practical Phrases,바닥을 버리다,Dump onto the floor
+VOCAB,340,Practical Phrases,바닥을 담다,Place on the floor
+VOCAB,341,Practical Phrases,바닥을 채우다,Cover / Fill the floor area
+VOCAB,342,Practical Phrases,바닥을 비우다,Clear / Empty the floor space
+VOCAB,343,Practical Phrases,바닥을 꺼내다,Remove from the floor
+VOCAB,344,Practical Phrases,바닥을 넣다,Put on the floor
+VOCAB,345,Practical Phrases,바닥을 옮기다,Shift items across the floor
+VOCAB,346,Practical Phrases,바닥을 확인하다,Check the floor
+VOCAB,347,Practical Phrases,바닥을 교체하다,Replace the flooring
+VOCAB,348,Practical Phrases,바닥을 보충하다,Supplement floor space
+VOCAB,349,Practical Phrases,바닥을 세척하다,Scrub / Wash the floor
+VOCAB,350,Practical Phrases,바닥을 소독하다,Sanitize the floor
+VOCAB,351,Practical Phrases,바닥을 건조하다,Dry the floor
+VOCAB,352,Practical Phrases,바닥을 점검하다,Inspect the floor
+VOCAB,353,Practical Phrases,주방을 닦다,Wipe down the kitchen
+VOCAB,354,Practical Phrases,주방을 씻다,Wash / Hose down the kitchen
+VOCAB,355,Practical Phrases,주방을 헹구다,Rinse the kitchen area
+VOCAB,356,Practical Phrases,주방을 정리하다,Organize / Tidy up the kitchen
+VOCAB,357,Practical Phrases,주방을 치우다,Clean up the kitchen
+VOCAB,358,Practical Phrases,주방을 버리다,Discard kitchen items
+VOCAB,359,Practical Phrases,주방을 담다,Fill the kitchen space
+VOCAB,360,Practical Phrases,주방을 채우다,Stock / Fill up the kitchentype,stt,category,ko,en
+VOCAB,361,Practical Phrases,주방을 비우다,Empty / Clear out the kitchen
+VOCAB,362,Practical Phrases,주방을 꺼내다,Bring out kitchen items
+VOCAB,363,Practical Phrases,주방을 넣다,Put items into the kitchen
+VOCAB,364,Practical Phrases,주방을 옮기다,Move kitchen items
+VOCAB,365,Practical Phrases,주방을 확인하다,Check the kitchen
+VOCAB,366,Practical Phrases,주방을 교체하다,Replace kitchen items / setup
+VOCAB,367,Practical Phrases,주방을 보충하다,Restock the kitchen
+VOCAB,368,Practical Phrases,주방을 세척하다,Wash / Scrub the kitchen
+VOCAB,369,Practical Phrases,주방을 소독하다,Sanitize the kitchen
+VOCAB,370,Practical Phrases,주방을 건조하다,Dry the kitchen
+VOCAB,371,Practical Phrases,주방을 점검하다,Inspect the kitchen
+VOCAB,372,Practical Phrases,홀을 닦다,Wipe the dining area
+VOCAB,373,Practical Phrases,홀을 씻다,Wash the dining area floor
+VOCAB,374,Practical Phrases,홀을 헹구다,Rinse the dining area floor
+VOCAB,375,Practical Phrases,홀을 정리하다,Organize / Set up the dining area
+VOCAB,376,Practical Phrases,홀을 치우다,Clear / Clean the dining area
+VOCAB,377,Practical Phrases,홀을 버리다,Discard dining area items
+VOCAB,378,Practical Phrases,홀을 담다,Fill the dining area space
+VOCAB,379,Practical Phrases,홀을 채우다,Stock / Fill up the dining area
+VOCAB,380,Practical Phrases,홀을 비우다,Empty / Clear out the dining area
+VOCAB,381,Practical Phrases,홀을 꺼내다,Bring items out to the dining area
+VOCAB,382,Practical Phrases,홀을 넣다,Put items into the dining area
+VOCAB,383,Practical Phrases,홀을 옮기다,Move items to the dining area
+VOCAB,384,Practical Phrases,홀을 확인하다,Check the dining area
+VOCAB,385,Practical Phrases,홀을 교체하다,Replace dining area fixtures/items
+VOCAB,386,Practical Phrases,홀을 보충하다,Restock the dining area
+VOCAB,387,Practical Phrases,홀을 세척하다,Scrub / Wash the dining area
+VOCAB,388,Practical Phrases,홀을 소독하다,Sanitize the dining area
+VOCAB,389,Practical Phrases,홀을 건조하다,Dry the dining area
+VOCAB,390,Practical Phrases,홀을 점검하다,Inspect the dining area
+VOCAB,391,Practical Phrases,카운터를 닦다,Wipe the counter
+VOCAB,392,Practical Phrases,카운터를 씻다,Wash the counter
+VOCAB,393,Practical Phrases,카운터를 헹구다,Rinse the counter
+VOCAB,394,Practical Phrases,카운터를 정리하다,Organize / Tidy up the counter
+VOCAB,395,Practical Phrases,카운터를 치우다,Clear the counter
+VOCAB,396,Practical Phrases,카운터를 버리다,Discard counter items
+VOCAB,397,Practical Phrases,카운터를 담다,Place items on the counter
+VOCAB,398,Practical Phrases,카운터를 채우다,Stock / Fill up the counter
+VOCAB,399,Practical Phrases,카운터를 비우다,Clear off the counter
+VOCAB,400,Practical Phrases,카운터를 꺼내다,Take out items from the counter
+VOCAB,401,Practical Phrases,카운터를 넣다,Put items under / on the counter
+VOCAB,402,Practical Phrases,카운터를 옮기다,Move the counter
+VOCAB,403,Practical Phrases,카운터를 확인하다,Check the counter
+VOCAB,404,Practical Phrases,카운터를 교체하다,Replace the counter
+VOCAB,405,Practical Phrases,카운터를 보충하다,Restock the counter
+VOCAB,406,Practical Phrases,카운터를 세척하다,Scrub / Wash the counter
+VOCAB,407,Practical Phrases,카운터를 소독하다,Sanitize the counter
+VOCAB,408,Practical Phrases,카운터를 건조하다,Dry the counter
+VOCAB,409,Practical Phrases,카운터를 점검하다,Inspect the counter
+VOCAB,410,Practical Phrases,쓰레기를 닦다,Wipe off trash / trash area
+VOCAB,411,Practical Phrases,쓰레기를 씻다,Wash out trash bins
+VOCAB,412,Practical Phrases,쓰레기를 헹구다,Rinse out trash bins
+VOCAB,413,Practical Phrases,쓰레기를 정리하다,Organize / Sort trash
+VOCAB,414,Practical Phrases,쓰레기를 치우다,Clear / Clean up trash
+VOCAB,415,Practical Phrases,쓰레기를 버리다,Throw away trash
+VOCAB,416,Practical Phrases,쓰레기를 담다,Put trash in a bag/bin
+VOCAB,417,Practical Phrases,쓰레기를 채우다,Fill up trash bags
+VOCAB,418,Practical Phrases,쓰레기를 비우다,Empty the trash
+VOCAB,419,Practical Phrases,쓰레기를 꺼내다,Take out the trash
+VOCAB,420,Practical Phrases,쓰레기를 넣다,Put trash into the bin
+VOCAB,421,Practical Phrases,쓰레기를 옮기다,Move the trash
+VOCAB,422,Practical Phrases,쓰레기를 확인하다,Check the trash
+VOCAB,423,Practical Phrases,쓰레기를 교체하다,Change the trash bag
+VOCAB,424,Practical Phrases,쓰레기를 보충하다,Add to the trash
+VOCAB,425,Practical Phrases,쓰레기를 세척하다,Wash out trash bins
+VOCAB,426,Practical Phrases,쓰레기를 소독하다,Disinfect trash bins
+VOCAB,427,Practical Phrases,쓰레기를 건조하다,Dry the trash bins
+VOCAB,428,Practical Phrases,쓰레기를 점검하다,Inspect the trash
+VOCAB,429,Practical Phrases,음식물쓰레기를 닦다,Wipe food waste spills
+VOCAB,430,Practical Phrases,음식물쓰레기를 씻다,Wash out food waste bins
+VOCAB,431,Practical Phrases,음식물쓰레기를 헹구다,Rinse out food waste bins
+VOCAB,432,Practical Phrases,음식물쓰레기를 정리하다,Organize food waste bins
+VOCAB,433,Practical Phrases,음식물쓰레기를 치우다,Clean up food waste
+VOCAB,434,Practical Phrases,음식물쓰레기를 버리다,Throw away food waste
+VOCAB,435,Practical Phrases,음식물쓰레기를 담다,Put food waste into a bin
+VOCAB,436,Practical Phrases,음식물쓰레기를 채우다,Fill the food waste bin
+VOCAB,437,Practical Phrases,음식물쓰레기를 비우다,Empty the food waste bin
+VOCAB,438,Practical Phrases,음식물쓰레기를 꺼내다,Take out the food waste
+VOCAB,439,Practical Phrases,음식물쓰레기를 넣다,Put in food waste
+VOCAB,440,Practical Phrases,음식물쓰레기를 옮기다,Move food waste bins
+VOCAB,441,Practical Phrases,음식물쓰레기를 확인하다,Check food waste
+VOCAB,442,Practical Phrases,음식물쓰레기를 교체하다,Replace food waste bins/bags
+VOCAB,443,Practical Phrases,음식물쓰레기를 보충하다,Add food waste
+VOCAB,444,Practical Phrases,음식물쓰레기를 세척하다,Wash out food waste containers
+VOCAB,445,Practical Phrases,음식물쓰레기를 소독하다,Disinfect food waste bins
+VOCAB,446,Practical Phrases,음식물쓰레기를 건조하다,Dry food waste containers
+VOCAB,447,Practical Phrases,음식물쓰레기를 점검하다,Inspect food waste disposal
+VOCAB,448,Practical Phrases,행주를 닦다,Wipe with a dishcloth
+VOCAB,449,Practical Phrases,행주를 씻다,Wash a dishcloth
+VOCAB,450,Practical Phrases,행주를 헹구다,Rinse a dishcloth
+VOCAB,451,Practical Phrases,행주를 정리하다,Organize dishcloths
+VOCAB,452,Practical Phrases,행주를 치우다,Put away dishcloths
+VOCAB,453,Practical Phrases,행주를 버리다,Throw away a dishcloth
+VOCAB,454,Practical Phrases,행주를 담다,Place dishcloths in a container
+VOCAB,455,Practical Phrases,행주를 채우다,Stock up on dishcloths
+VOCAB,456,Practical Phrases,행주를 비우다,Clear dishcloths
+VOCAB,457,Practical Phrases,행주를 꺼내다,Take out a dishcloth
+VOCAB,458,Practical Phrases,행주를 넣다,Put dishcloths into storage/sanitizer
+VOCAB,459,Practical Phrases,행주를 옮기다,Move dishcloths
+VOCAB,460,Practical Phrases,행주를 확인하다,Check dishcloths
+VOCAB,461,Practical Phrases,행주를 교체하다,Replace a dishcloth
+VOCAB,462,Practical Phrases,행주를 보충하다,Restock dishcloths
+VOCAB,463,Practical Phrases,행주를 세척하다,Thoroughly wash dishcloths
+VOCAB,464,Practical Phrases,행주를 소독하다,Sanitize dishcloths
+VOCAB,465,Practical Phrases,행주를 건조하다,Dry dishcloths
+VOCAB,466,Practical Phrases,행주를 점검하다,Inspect dishcloth cleanliness
+VOCAB,467,Practical Phrases,수세미를 닦다,Wipe off a scrubbing sponge
+VOCAB,468,Practical Phrases,수세미를 씻다,Wash a scrubbing sponge
+VOCAB,469,Practical Phrases,수세미를 헹구다,Rinse a scrubbing sponge
+VOCAB,470,Practical Phrases,수세미를 정리하다,Organize sponges
+VOCAB,471,Practical Phrases,수세미를 치우다,Put away sponges
+VOCAB,472,Practical Phrases,수세미를 버리다,Throw away a sponge
+VOCAB,473,Practical Phrases,수세미를 담다,Place sponges in a holder
+VOCAB,474,Practical Phrases,수세미를 채우다,Stock up on sponges
+VOCAB,475,Practical Phrases,수세미를 비우다,Clear sponges out
+VOCAB,476,Practical Phrases,수세미를 꺼내다,Take out a sponge
+VOCAB,477,Practical Phrases,수세미를 넣다,Put a sponge in a holder
+VOCAB,478,Practical Phrases,수세미를 옮기다,Move sponges
+VOCAB,479,Practical Phrases,수세미를 확인하다,Check sponges
+VOCAB,480,Practical Phrases,수세미를 교체하다,Replace a sponge
+SENTENCE,1,Sample Sentences,오늘은 제가 설거지할게요.,I will do the dishes today.
+SENTENCE,2,Sample Sentences,접시를 먼저 헹구고 세제로 씻어 주세요.,Please rinse the plates first and then wash them with dish soap.
+SENTENCE,3,Sample Sentences,수저는 따로 모아서 세척해 주세요.,Please gather the utensils separately and wash them.
+SENTENCE,4,Sample Sentences,뜨거우니까 조심하세요.,It is hot, so please be careful.
+SENTENCE,5,Sample Sentences,바닥이 미끄러우니 조심히 걸어 주세요.,The floor is slippery, so please walk carefully.
+SENTENCE,6,Sample Sentences,주문 들어왔어요. 테이블 5번이에요.,An order came in. It's for Table 5.
+SENTENCE,7,Sample Sentences,물 좀 더 가져다 드릴까요?,Shall I bring you some more water?
+SENTENCE,8,Sample Sentences,반찬 리필해 드릴까요?,Would you like a refill on side dishes?
+SENTENCE,9,Sample Sentences,잠시만 기다려 주세요. 곧 준비해 드릴게요.,Please wait a moment. We'll prepare it shortly.
+SENTENCE,10,Sample Sentences,"포장해 드릴까요, 아니면 여기서 드실 건가요?",Would you like this to go, or will you be eating here?
+SENTENCE,11,Sample Sentences,"계산은 카드로 하실까요, 현금으로 하실까요?",Would you like to pay by card or cash?
+SENTENCE,12,Sample Sentences,유통기한을 확인해 주세요.,Please check the expiration date.
+SENTENCE,13,Sample Sentences,쓰레기를 분리수거해 주세요.,Please sort/recycle the trash.
+SENTENCE,14,Sample Sentences,테이블을 깨끗이 닦고 세팅해 주세요.,Please wipe the table clean and set it up.
+SENTENCE,15,Sample Sentences,주문하신 음식 나왔습니다.,Here is the food you ordered.
+SENTENCE,16,Sample Sentences,잠시만요. 확인하고 오겠습니다.,One moment, please. I'll go check and come back.
+SENTENCE,17,Sample Sentences,오늘도 수고하셨어요.,Thank you for your hard work today as well.
+SENTENCE,18,Sample Sentences,마감 청소 시작합시다.,Let's start the closing cleanup.
+SENTENCE,19,Sample Sentences,가게 문 닫을 시간이에요.,It's time to close the restaurant.
+SENTENCE,20,Sample Sentences,의자를 주방에 넣어 주세요.,Please put the chairs in the kitchen.
+SENTENCE,21,Sample Sentences,컵을 확인해 주세요.,Please check the cups.
+SENTENCE,22,Sample Sentences,물을 깨끗이 닦아 주세요.,Please wipe up the water clean.
+SENTENCE,23,Sample Sentences,수저를 확인해 주세요.,Please check the utensils.
+SENTENCE,24,Sample Sentences,의자를 세척실로 옮겨 주세요.,Please move the chairs to the dishwashing room.
+SENTENCE,25,Sample Sentences,세제를 깨끗이 닦아 주세요.,Please wipe off the detergent completely.
+SENTENCE,26,Sample Sentences,반찬을 깨끗이 닦아 주세요.,Please wipe down the side dish area clean.
+SENTENCE,27,Sample Sentences,홀을 빨리 정리해 주세요.,Please organize the dining area quickly.
+SENTENCE,28,Sample Sentences,컵을 창고에 넣어 주세요.,Please put the cups in the storage room.
+SENTENCE,29,Sample Sentences,바닥을 냉장고에 넣어 주세요.,Please put floor items in the refrigerator.
+SENTENCE,30,Sample Sentences,포장용기를 빨리 정리해 주세요.,Please organize the takeout containers quickly.
+SENTENCE,31,Sample Sentences,소스를 빨리 정리해 주세요.,Please organize the sauces quickly.
+SENTENCE,32,Sample Sentences,바닥을 깨끗이 닦아 주세요.,Please mop/wipe the floor clean.
+SENTENCE,33,Sample Sentences,세제를 빨리 정리해 주세요.,Please organize the detergents quickly.
+SENTENCE,34,Sample Sentences,냉동실을 확인해 주세요.,Please check the freezer.
+SENTENCE,35,Sample Sentences,음식물쓰레기를 확인해 주세요.,Please check the food waste.
+SENTENCE,36,Sample Sentences,주방을 확인해 주세요.,Please check the kitchen.
+SENTENCE,37,Sample Sentences,행주를 냉장고에 넣어 주세요.,Please put the dishcloths in the refrigerator.
+SENTENCE,38,Sample Sentences,냅킨을 세척실로 옮겨 주세요.,Please move the napkins to the dishwashing room.
+SENTENCE,39,Sample Sentences,접시를 세척실로 옮겨 주세요.,Please move the plates to the dishwashing room.
+SENTENCE,40,Sample Sentences,수저를 주방으로 옮겨 주세요.,Please move the utensils to the kitchen.
+SENTENCE,41,Sample Sentences,수저를 냉동실로 옮겨 주세요.,Please move the utensils to the freezer.
+SENTENCE,42,Sample Sentences,수세미를 확인해 주세요.,Please check the scrubbing sponges.
+SENTENCE,43,Sample Sentences,의자를 홀로 옮겨 주세요.,Please move the chairs to the dining area.
+SENTENCE,44,Sample Sentences,홀을 냉장고에 넣어 주세요.,Please store dining area items in the refrigerator.
+SENTENCE,45,Sample Sentences,재료를 확인해 주세요.,Please check the ingredients.
+SENTENCE,46,Sample Sentences,카운터를 냉장고에 넣어 주세요.,Please put counter items in the refrigerator.
+SENTENCE,47,Sample Sentences,쟁반을 빨리 정리해 주세요.,Please organize the trays quickly.
+SENTENCE,48,Sample Sentences,컵을 깨끗이 닦아 주세요.,Please wipe the cups clean.
+SENTENCE,49,Sample Sentences,물을 홀에 넣어 주세요.,Please bring water to the dining area.
+SENTENCE,50,Sample Sentences,홀을 창고로 옮겨 주세요.,Please move dining area items to storage.
+SENTENCE,51,Sample Sentences,재료를 확인해 주세요.,Please check the ingredients.
+SENTENCE,52,Sample Sentences,의자를 깨끗이 닦아 주세요.,Please wipe the chairs clean.
+SENTENCE,53,Sample Sentences,음식물쓰레기를 빨리 정리해 주세요.,Please clean up the food waste quickly.
+SENTENCE,54,Sample Sentences,냅킨을 빨리 정리해 주세요.,Please organize the napkins quickly.
+SENTENCE,55,Sample Sentences,테이블을 냉장고에 넣어 주세요.,Please put table items in the refrigerator.
+SENTENCE,56,Sample Sentences,얼음을 빨리 정리해 주세요.,Please organize/restock the ice quickly.
+SENTENCE,57,Sample Sentences,재료를 깨끗이 닦아 주세요.,Please wipe down the ingredients clean.
+SENTENCE,58,Sample Sentences,소스를 깨끗이 닦아 주세요.,Please wipe the sauce bottles clean.
+SENTENCE,59,Sample Sentences,쟁반을 깨끗이 닦아 주세요.,Please wipe the trays clean.
+SENTENCE,60,Sample Sentences,소독제를 세척실에 넣어 주세요.,Please put the sanitizer in the dishwashing room.
+SENTENCE,61,Sample Sentences,쓰레기를 홀에 넣어 주세요.,Please bring the trash bin to the dining area.
+SENTENCE,62,Sample Sentences,포장용기를 깨끗이 닦아 주세요.,Please wipe the takeout containers clean.
+SENTENCE,63,Sample Sentences,그릇을 확인해 주세요.,Please check the bowls.
+SENTENCE,64,Sample Sentences,포장용기를 빨리 정리해 주세요.,Please organize the takeout containers quickly.
+SENTENCE,65,Sample Sentences,의자를 빨리 정리해 주세요.,Please arrange the chairs quickly.
+SENTENCE,66,Sample Sentences,바닥을 깨끗이 닦아 주세요.,Please mop the floor clean.
+SENTENCE,67,Sample Sentences,수세미를 깨끗이 닦아 주세요.,Please clean the scrubbing sponges thoroughly.
+SENTENCE,68,Sample Sentences,냅킨을 창고로 옮겨 주세요.,Please move the napkins to the storage room.
+SENTENCE,69,Sample Sentences,쟁반을 깨끗이 닦아 주세요.,Please wipe the trays clean.
+SENTENCE,70,Sample Sentences,물을 홀에 넣어 주세요.,Please bring water to the dining area.
+SENTENCE,71,Sample Sentences,음식물쓰레기를 빨리 정리해 주세요.,Please clean up the food waste quickly.
+SENTENCE,72,Sample Sentences,주방을 창고에 넣어 주세요.,Please store kitchen items in storage.
+SENTENCE,73,Sample Sentences,냉동실을 홀에 넣어 주세요.,Please move freezer items to the dining area.
+SENTENCE,74,Sample Sentences,그릇을 빨리 정리해 주세요.,Please organize the bowls quickly.
+SENTENCE,75,Sample Sentences,냅킨을 홀로 옮겨 주세요.,Please move the napkins to the dining area.
+SENTENCE,76,Sample Sentences,냉동실을 세척실로 옮겨 주세요.,Please move freezer items to the dishwashing room.
+SENTENCE,77,Sample Sentences,소스를 창고에 넣어 주세요.,Please put the sauces in the storage room.
+SENTENCE,78,Sample Sentences,테이블을 깨끗이 닦아 주세요.,Please wipe the tables clean.
+SENTENCE,79,Sample Sentences,테이블을 세척실에 넣어 주세요.,Please move table items to the dishwashing room.
+SENTENCE,80,Sample Sentences,홀을 깨끗이 닦아 주세요.,Please clean/wipe down the dining area.
+SENTENCE,81,Sample Sentences,재료를 빨리 정리해 주세요.,Please organize the ingredients quickly.
+SENTENCE,82,Sample Sentences,냉장고를 깨끗이 닦아 주세요.,Please wipe down the refrigerator clean.
+SENTENCE,83,Sample Sentences,컵을 확인해 주세요.,Please check the cups.
+SENTENCE,84,Sample Sentences,소독제를 확인해 주세요.,Please check the sanitizer stock.
+SENTENCE,85,Sample Sentences,쟁반을 빨리 정리해 주세요.,Please organize the trays quickly.
+SENTENCE,86,Sample Sentences,냉동실을 냉장고에 넣어 주세요.,Please transfer items from the freezer to the refrigerator.
+SENTENCE,87,Sample Sentences,행주를 확인해 주세요.,Please check the dishcloths.
+SENTENCE,88,Sample Sentences,주방을 홀에 넣어 주세요.,Please move kitchen items to the dining area.
+SENTENCE,89,Sample Sentences,얼음을 냉장고로 옮겨 주세요.,Please move the ice to the refrigerator.
+SENTENCE,90,Sample Sentences,접시를 홀에 넣어 주세요.,Please bring the plates to the dining area.
+SENTENCE,91,Sample Sentences,소독제를 냉동실에 넣어 주세요.,Please put the sanitizer in the freezer.
+SENTENCE,92,Sample Sentences,냅킨을 홀에 넣어 주세요.,Please bring the napkins to the dining area.
+SENTENCE,93,Sample Sentences,세제를 깨끗이 닦아 주세요.,Please wipe off the detergent residue clean.
+SENTENCE,94,Sample Sentences,세제를 깨끗이 닦아 주세요.,Please wipe off the detergent residue clean.
+SENTENCE,95,Sample Sentences,의자를 빨리 정리해 주세요.,Please arrange the chairs quickly.
+SENTENCE,96,Sample Sentences,수세미를 확인해 주세요.,Please check the scrubbing sponges.
+SENTENCE,97,Sample Sentences,테이블을 빨리 정리해 주세요.,Please clear/arrange the tables quickly.
+SENTENCE,98,Sample Sentences,음식물쓰레기를 확인해 주세요.,Please check the food waste bin.
+SENTENCE,99,Sample Sentences,냉동실을 깨끗이 닦아 주세요.,Please wipe down the freezer clean.
+SENTENCE,100,Sample Sentences,바닥을 주방으로 옮겨 주세요.,Please move floor-cleaning items to the kitchen.
