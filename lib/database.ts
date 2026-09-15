@@ -47,7 +47,7 @@ export class VocabDatabase {
     return await db.vocabulary
       .filter(item => 
         item.ko.toLowerCase().includes(lowerQuery) || 
-        item.vi.toLowerCase().includes(lowerQuery)
+        item.en.toLowerCase().includes(lowerQuery)
       )
       .toArray();
   }

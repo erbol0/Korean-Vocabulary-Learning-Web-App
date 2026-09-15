@@ -3,7 +3,7 @@ export interface VocabularyItem {
   id: string;
   stt?: number;
   ko: string; // Korean word
-  vi: string; // english meaning
+  en: string; // english meaning
   tags?: string[];
   addedAt?: number;
 }

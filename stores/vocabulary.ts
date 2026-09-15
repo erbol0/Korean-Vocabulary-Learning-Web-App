@@ -114,7 +114,7 @@ export const useVocabularyStore = create<VocabularyStore>((set, get) => ({
       const query = searchQuery.toLowerCase().trim();
       filtered = filtered.filter(item =>
         item.ko.toLowerCase().includes(query) ||
-        item.vi.toLowerCase().includes(query)
+        item.en.toLowerCase().includes(query)
       );
     }
 
