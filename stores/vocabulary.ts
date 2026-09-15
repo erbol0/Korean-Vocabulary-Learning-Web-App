@@ -5,6 +5,7 @@ import { persist } from 'zustand/middleware';
 import { VocabularyItem } from '../lib/types';
 import { VocabDatabase } from '../lib/database';
 import { generateId } from '../lib/utils';
+import { TOPIK1_VOCABULARY } from '../data/vocabulary';
 
 interface VocabularyStore {
   vocabulary: VocabularyItem[];
@@ -36,7 +37,21 @@ export const useVocabularyStore = create<VocabularyStore>((set, get) => ({
   loadVocabulary: async () => {
     set({ isLoading: true });
     try {
-      const vocabulary = await VocabDatabase.getVocabulary();
+      let vocabulary = await VocabDatabase.getVocabulary();
+
+      if (vocabulary.length === 0) {
+        const defaultVocabulary: VocabularyItem[] = TOPIK1_VOCABULARY.map((word) => ({
+          id: generateId(),
+          ko: word.korean,
+          en: word.english,
+          tags: word.category ? [word.category] : [],
+          addedAt: Date.now(),
+        }));
+
+        await VocabDatabase.addVocabulary(defaultVocabulary);
+        vocabulary = defaultVocabulary;
+      }
+
       set({ vocabulary, isLoading: false });
     } catch (error) {
       console.error('Failed to load vocabulary:', error);

@@ -3,7 +3,7 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
-import { Gamepad2, Volume2, Target, Clock, Zap, CheckCircle, Keyboard, Shuffle, ArrowLeft } from 'lucide-react';
+import { Volume2, Target, Zap, Keyboard, Shuffle } from 'lucide-react';
 import Link from 'next/link';
 
 const games = [
