@@ -40,7 +40,7 @@ A modern web app for learning **Korean TOPIK Level 1 vocabulary** through flashc
 ### Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/erbol0/Korean-Vocabulary-Learning-Web-App.git
 cd topik_learn
 npm install
 npm run dev
