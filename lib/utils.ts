@@ -13,10 +13,14 @@ export function normalizeKorean(text: string): string {
   return text.trim().toLowerCase();
 }
 
-export function normalizeenglish(text: string): string {
+export function normalizeEnglish(text: string): string {
   return text.trim().toLowerCase()
     .normalize('NFD')
     .replace(/[\u0300-\u036f]/g, ''); // Remove diacritics
+}
+
+export function normalizeenglish(text: string): string {
+  return normalizeEnglish(text);
 }
 
 export function shuffleArray<T>(array: T[]): T[] {

@@ -10,10 +10,11 @@ import { useProgressStoreNew } from '@/stores/progress-new';
 import { Volume2, ArrowLeft, CheckCircle, XCircle, Trophy, Keyboard, Eye, EyeOff } from 'lucide-react';
 import { SpeechService } from '@/utils/speech';
 import { shuffleArray } from '@/lib/utils';
+import { type VocabularyItem } from '@/lib/types';
 import Link from 'next/link';
 
 type Question = {
-  word: { ko: string; en?: string; vi?: string; id: string };
+  word: VocabularyItem & { vi?: string };
   showHint: boolean;
 };
 

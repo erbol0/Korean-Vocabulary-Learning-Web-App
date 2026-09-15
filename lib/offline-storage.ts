@@ -7,7 +7,8 @@ interface OfflineDBSchema extends DBSchema {
     value: {
       id: string;
       ko: string;
-      vi: string;
+      en: string;
+      vi?: string;
       level?: number;
       category?: string;
       lastSynced: number;
@@ -165,6 +166,7 @@ class OfflineStorageManager {
       await tx.store.put({
         id: word.id,
         ko: word.ko,
+        en: word.en,
         vi: word.en,
         level: 1,
         category: word.tags?.join(','),
@@ -186,7 +188,7 @@ class OfflineStorageManager {
       .map(word => ({
         id: word.id,
         ko: word.ko,
-        vi: word.en,
+        en: word.en ?? word.vi ?? '',
         tags: word.category ? word.category.split(',') : undefined
       }));
   }
@@ -200,6 +202,7 @@ class OfflineStorageManager {
     await this.db.put('vocabulary', {
       id: word.id,
       ko: word.ko,
+      en: word.en,
       vi: word.en,
       level: 1,
       category: word.tags?.join(','),

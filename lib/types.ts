@@ -4,6 +4,7 @@ export interface VocabularyItem {
   stt?: number;
   ko: string; // Korean word
   en: string; // english meaning
+  vi?: string; // legacy compatibility field
   tags?: string[];
   addedAt?: number;
 }
